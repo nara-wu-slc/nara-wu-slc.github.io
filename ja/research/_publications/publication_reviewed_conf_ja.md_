@@ -1,5 +1,6 @@
 
 ### **2025**
+1. Yuka Ko, **Katsuhito Sudoh**, Satoshi Nakamura, Sakriani Sakti, Bridging Disfluent to Fluent in Speech Translation: Effective Tagging and Fine-Tuning Strategies, *2025 28th Conference of the Oriental COCOSDA International Committee for the Co-ordination and Standardisation of Speech Databases and Assessment Techniques (O-COCOSDA)*, pp. 1–6, 2025 [[link]](https://doi.org/10.1109/o-cocosda68185.2025.11384869)
 1. Ryosuke Matsushita, Ryosuke Sakai, Koki Fukuda, Shinnosuke Takamichi, Kota Iura, Yuki Saito, Graham Neubig, **Katsuhito Sudoh**, Hiroya Takamura, Tatsuya Ishigaki, Measuring Time Delay Tolerance in Third-Person Live Commentary for Super Smash Bros. Ultimate, *2025 IEEE Conference on Games (CoG)*, pp. 1–4, 2025 [[link]](https://doi.org/10.1109/cog64752.2025.11114300)
 
 ### **2024**
@@ -24,12 +25,12 @@
 
 ### **2021**
 1. Ryo Fukuda, Sashi Novitasari, Yui Oka, Yasumasa Kano, Yuki Yano, Yuka Ko, Hirotaka Tokuyama, Kosuke Doi, Tomoya Yanagita, Sakriani Sakti, **Katsuhito Sudoh**, Satoshi Nakamura, Simultaneous Speech-to-speech Translation System with Transformer-based Incremental ASR, MT, and TTS, *Proceedings of the 24th Conference of the Oriental COCOSDA*, pp. 186–192, 2021
-1. Yasumasa Kano, **Katsuhito Sudoh**, Satoshi Nakamura, Simultaneous Neural Machine Translation with Constituent Label Prediction., *Proceedings of the Sixth Conference on Machine Translation (WMT)*, pp. 1130–1140, 2021 [[link]](https://dblp.uni-trier.de/rec/journals/corr/abs-2110-13480)
+1. Yasumasa Kano, **Katsuhito Sudoh**, Satoshi Nakamura, Simultaneous Neural Machine Translation with Constituent Label Prediction., *Proceedings of the Sixth Conference on Machine Translation (WMT)*, pp. 1130–1140, 2021 [[link]](https://dblp.org/rec/journals/corr/abs-2110-13480)
 1. Hirotaka Tokuyama, Sakriani Sakti, **Katsuhito Sudoh**, Satoshi Nakamura, Transcribing Paralinguistic Acoustic Cues to Target Language Text in Transformer-Based Speech-to-Text Translation, *Proceedings of Interspeech 2021*, pp. 2262–2266, 2021 [[link]](https://doi.org/10.21437/interspeech.2021-1020)
 1. Yuka Ko, **Katsuhito Sudoh**, Sakriani Sakti, Satoshi Nakamura, ASR Posterior-Based Loss for Multi-Task End-to-End Speech Translation, *Proceedings of Interspeech 2021*, pp. 2272–2276, 2021 [[link]](https://doi.org/10.21437/interspeech.2021-1105)
-1. Kosuke Doi, **Katsuhito Sudoh**, Satoshi Nakamura, Large-Scale English-Japanese Simultaneous Interpretation Corpus: Construction and Analyses with Sentence-Aligned Data., *Proceedings of the 18th International Conference on Spoken Language Translation (IWSLT 2021)*, pp. 226–235, 2021 [[link]](https://dblp.uni-trier.de/rec/conf/iwslt/DoiSN21)
-1. Ryo Fukuda, **Katsuhito Sudoh**, Satoshi Nakamura, On Knowledge Distillation for Translating Erroneous Speech Transcriptions., *Proceedings of the 18th International Conference on Spoken Language Translation (IWSLT 2021)*, pp. 198–205, 2021 [[link]](https://dblp.uni-trier.de/rec/conf/iwslt/FukudaSN21)
-1. Shohei Tanaka, Koichiro Yoshino, **Katsuhito Sudoh**, Satoshi Nakamura, ARTA: Collection and Classification of Ambiguous Requests and Thoughtful Actions, *Proceedings of the 22nd Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2021)*, pp. 77–88, 2021 [[link]](https://dblp.uni-trier.de/rec/conf/sigdial/TanakaYSN21)
+1. Kosuke Doi, **Katsuhito Sudoh**, Satoshi Nakamura, Large-Scale English-Japanese Simultaneous Interpretation Corpus: Construction and Analyses with Sentence-Aligned Data., *Proceedings of the 18th International Conference on Spoken Language Translation (IWSLT 2021)*, pp. 226–235, 2021 [[link]](https://dblp.org/rec/conf/iwslt/DoiSN21)
+1. Ryo Fukuda, **Katsuhito Sudoh**, Satoshi Nakamura, On Knowledge Distillation for Translating Erroneous Speech Transcriptions., *Proceedings of the 18th International Conference on Spoken Language Translation (IWSLT 2021)*, pp. 198–205, 2021 [[link]](https://dblp.org/rec/conf/iwslt/FukudaSN21)
+1. Shohei Tanaka, Koichiro Yoshino, **Katsuhito Sudoh**, Satoshi Nakamura, ARTA: Collection and Classification of Ambiguous Requests and Thoughtful Actions, *Proceedings of the 22nd Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2021)*, pp. 77–88, 2021 [[link]](https://dblp.org/rec/conf/sigdial/TanakaYSN21)
 1. **Katsuhito Sudoh**, Kosuke Takahashi, Satoshi Nakamura, Is This Translation Error Critical?: Classification-Based Human and Automatic Machine Translation Evaluation Focusing on Critical Errors, *Proceedings of the Workshop on Human Evaluation of NLP Systems (HumEval)*, pp. 46–55, 2021 [[link]](https://aclanthology.org/2021.humeval-1.5/)
 
 ### **2020**
